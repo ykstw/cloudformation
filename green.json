@@ -13,7 +13,7 @@
     },
     "ImageId" : {
       "Description" : "Instance Image ID",
-      "Default" : "ami-eec1c380",
+      "Default" : "ami-06a46da680048c8ae",
       "Type" : "String"
     },
     "InstanceType" : {
